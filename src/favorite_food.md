@@ -1,3 +1,4 @@
 # favorite food
 
-apple
+*洋ナシ
+*ナス
